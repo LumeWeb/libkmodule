@@ -1,0 +1,11 @@
+# [0.1.0-develop.1](https://git.lumeweb.com/LumeWeb/libkmodule/compare/v0.0.1...v0.1.0-develop.1) (2023-06-23)
+
+
+### Bug Fixes
+
+* seed is now key ([e4dd9e7](https://git.lumeweb.com/LumeWeb/libkmodule/commit/e4dd9e715cab312dc6a19736f459533f3196cade))
+
+
+### Features
+
+* Initial version ([b68f2c0](https://git.lumeweb.com/LumeWeb/libkmodule/commit/b68f2c0281e476f4e9675299723aa36ea0e78027))
