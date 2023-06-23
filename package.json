@@ -1,5 +1,5 @@
 {
-    "name": "@lumweb/libkmodule",
+    "name": "@lumeweb/libkmodule",
     "version": "0.1.0-develop.3",
     "main": "lib/index.js",
     "type": "module",
