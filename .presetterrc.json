@@ -1,0 +1,21 @@
+{
+    "preset": [
+        "presetter-preset-strict"
+    ],
+    "config": {
+        "tsconfig": {
+            "compilerOptions": {
+                "lib": [
+                    "ES2021",
+                    "dom"
+                ]
+            }
+        },
+        "prettier": {
+            "singleQuote": false
+        }
+    },
+    "variable": {
+        "source": "src"
+    }
+}
