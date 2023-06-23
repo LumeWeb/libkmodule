@@ -1,3 +1,10 @@
+# [0.1.0-develop.4](https://git.lumeweb.com/LumeWeb/libkmodule/compare/v0.1.0-develop.3...v0.1.0-develop.4) (2023-06-23)
+
+
+### Bug Fixes
+
+* fix typo in package name ([dcbeba1](https://git.lumeweb.com/LumeWeb/libkmodule/commit/dcbeba1e37f8ae9902605dae290ef072c3f959ff))
+
 # [0.1.0-develop.3](https://git.lumeweb.com/LumeWeb/libkmodule/compare/v0.1.0-develop.2...v0.1.0-develop.3) (2023-06-23)
 
 
