@@ -23,6 +23,9 @@
     "files": [
         "lib/**"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "dependencies": {
         "@lumeweb/libweb": "0.2.0-develop.3"
     }
