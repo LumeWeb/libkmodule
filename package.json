@@ -17,7 +17,8 @@
     "readme": "ERROR: No README data found!",
     "_id": "@lumweb/libkmodule@0.1.0",
     "scripts": {
-        "prepare": "presetter bootstrap"
+        "prepare": "presetter bootstrap",
+        "build": "run build"
     },
     "files": [
         "lib/**"
