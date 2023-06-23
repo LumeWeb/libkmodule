@@ -18,7 +18,8 @@
     "_id": "@lumweb/libkmodule@0.1.0",
     "scripts": {
         "prepare": "presetter bootstrap",
-        "build": "run build"
+        "build": "run build",
+        "semantic-release": "semantic-release"
     },
     "files": [
         "lib/**"
