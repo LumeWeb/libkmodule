@@ -1,3 +1,10 @@
+# [0.1.0-develop.3](https://git.lumeweb.com/LumeWeb/libkmodule/compare/v0.1.0-develop.2...v0.1.0-develop.3) (2023-06-23)
+
+
+### Bug Fixes
+
+* force release ([9edb79b](https://git.lumeweb.com/LumeWeb/libkmodule/commit/9edb79bbd909a6fcd3aa05775a020c2852d02d3e))
+
 # [0.1.0-develop.2](https://git.lumeweb.com/LumeWeb/libkmodule/compare/v0.1.0-develop.1...v0.1.0-develop.2) (2023-06-23)
 
 
